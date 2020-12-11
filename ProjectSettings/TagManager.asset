@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - projectile
+  - enemyz
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NPC
+  - Camera
+  m_SortingLayers:
+  - name: kolce
+    uniqueID: 2705398653
+    locked: 0
+  - name: Background
+    uniqueID: 2766579207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objects
+    uniqueID: 1406768033
+    locked: 0
+  - name: Player
+    uniqueID: 1096643275
+    locked: 0
+  - name: objectzz
+    uniqueID: 2103804129
+    locked: 0
